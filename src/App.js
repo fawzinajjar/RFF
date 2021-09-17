@@ -1,12 +1,10 @@
-import Button from "./components/button"
+import Navbar from "./components/navbar";
 
 
 function App() {
   return (
     <div>
-     <Button>
-       fafafa
-     </Button>
+     <Navbar></Navbar>
     </div>
   );
 }
